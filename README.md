@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 ```text
 ██                             ██▀▀██                            
 ▓▓ ██████ ██▀▀██ ██     ██▀▀██ ▓▓▄▄   ██▀▀██ ██     ██▀▀██ ██  ██
@@ -31,7 +31,6 @@
 [Key Features](#-key-features) • [Installation](#-installation) • [Quick Start](#-quick-start) • [CLI Usage](#-cli-usage) • [Disclaimer](#-disclaimer) • [Support](#-give-a-star)
 
 ---
-
 </div>
 
 ## 📸 Preview
